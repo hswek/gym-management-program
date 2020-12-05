@@ -28,5 +28,12 @@
 - 회원 검색  
 - 전체 회원 정보 출력  
 
-#다운 및 실행 방법  
-git clone
+# 다운 및 실행 방법  
+1. git clone https://github.com/hswek/finalprogramming.git  
+2. cd finalprogramming  
+3. make  
+4. ./execute    
+
+# 주의사항  
+
+메뉴에서, 문자열을 입력할경우 프로그램이 강제종료될 우려가 존재합니다.
